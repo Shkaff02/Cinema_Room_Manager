@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Cinema.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Find_the_corners.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Reverse_elements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-The_third_row.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" options="--add-modules java.base" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Cinema.main" options="--add-modules java.base" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Find_the_corners.main" options="--add-modules java.base" />
+    </option>
+  </component>
+</project>
